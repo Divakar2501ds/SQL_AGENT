@@ -1,4 +1,4 @@
-# 🤖 DocuQuery — AI-Powered Document & Database Chatbot
+# 🤖 SQLAGENT — AI-Powered Document & Database Chatbot
 
 A FastAPI-based intelligent chatbot that uses **LangGraph** to route user queries between a SQL agent (for database questions) and a general-purpose agent. It maintains conversation history and can answer questions about templates, documents, users, and sessions stored in a PostgreSQL database.
 
